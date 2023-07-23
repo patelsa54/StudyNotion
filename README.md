@@ -51,10 +51,10 @@ Sample list of API endpoints and their functionalities:
 
 ## Deployment
 The deployment process for the StudyNotion ed-tech platform will involve hosting the application on various cloud-based services.
-front-end => Vercel [hosting service for static sites built with React]
-back-end  => Render [cloud-based hosting services for applications built with Node.js and MongoDB]
-Media files => Cloudinary [cloud-based media management platform]
-Database => MongoDB Atlas [fully managed cloud database service]
+1) Front-end => Vercel [hosting service for static sites built with React]
+2) Back-end  => Render [cloud-based hosting services for applications built with Node.js and MongoDB]
+3) Media files => Cloudinary [cloud-based media management platform]
+4) Database => MongoDB Atlas [fully managed cloud database service]
 
 ## Website Link
 
