@@ -9,6 +9,7 @@ across the globe.
 
 ## Architecture Diagram
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
+
 ![ss](https://github.com/patelsa54/StudyNotion/assets/115445118/522a2b1c-5300-4ce4-a294-43900079ccbc)
 
 ## Front-end
