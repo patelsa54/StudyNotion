@@ -58,6 +58,6 @@ The deployment process for the StudyNotion ed-tech platform will involve hosting
 4) Database => MongoDB Atlas [fully managed cloud database service]
 
 ## Website Link
-
+https://studynotion-frontend-phi.vercel.app/
 
 
