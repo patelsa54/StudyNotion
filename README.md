@@ -1,2 +1,2 @@
-# StudyNotion Edtech Project
-![img1](https://github.com/patelsa54/StudyNotion/assets/115445118/6eeb0bba-878e-49b4-87b2-e741fc9f76d3)
+# StudyNotion An Ed-tech Platform
+![logo](https://github.com/patelsa54/StudyNotion/assets/115445118/cd1f04f4-d7c0-4e3f-9840-4c8edf92a38d)
